@@ -17,15 +17,12 @@
         <img src="https://skillicons.dev/icons?i=linkedin">
     </a>
     <a href="mailto:pradeepgolla.atwork@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail">
+        <img src="https://skillicons.dev/icons?i=gmail" style="margin: 0px 2px">
+    </a>
+    <a href="https://dev.to/pradeepg07" target="_blank">
+        <img src="https://skillicons.dev/icons?i=devto">
     </a>
 </p>
-
-<h3>Stuff I do will be here</h3>
-<a href="https://dev.to/pradeepg07" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=devto" alt="pradeepg07">
-    </img>
-</a>
 
 <h3 align="left">Languages</h3>
 <img src="https://skillicons.dev/icons?i=java">
